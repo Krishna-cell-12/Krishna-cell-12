@@ -26,10 +26,22 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Krishna-cell-12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-abhang-917910327/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna-cell-12)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishnaabhang/)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Krishna-cell-12&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Krishna-cell-12&abbreviated=true&style=flat-square)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
