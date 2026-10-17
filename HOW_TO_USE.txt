@@ -1,0 +1,5 @@
+1. On GitHub create a PUBLIC repo named exactly:  Krishna-cell-12   (same as your username)
+2. Upload README.md and the whole assets/ folder to the repo root (drag & drop in the web UI works).
+3. Optional: add your photo as assets/photo.jpg, then run  `pip install pillow` and `python build_assets.py`
+   (it embeds the photo into assets/hero.svg), and re-upload assets/hero.svg.
+4. Open github.com/Krishna-cell-12 -> the README shows on your profile.
