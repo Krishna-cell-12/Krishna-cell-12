@@ -17,7 +17,7 @@
 <img src="assets/about-terminal.svg" width="100%" alt="About Krishna: education, experience, focus" />
 
 <img src="assets/sec-02-snapshot.svg" width="100%" alt="02 Snapshot" />
-<img src="assets/snapshot.svg" width="100%" alt="Snapshot: CGPA 7.71, third year, internship, certifications" />
+<img src="assets/snapshot.svg" width="100%" alt="Snapshot: CGPA 7.9, third year, internship, certifications" />
 
 <img src="assets/sec-03-work.svg" width="100%" alt="03 Selected work" />
 
