@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-cell-12&bg_color=060B16&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=A%20year%20of%20building" width="100%" alt="Contribution activity graph" />
+<img src="https://streak-stats.demolab.com?user=Krishna-cell-12&background=060B16&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=7D93B2&border=1F6FEB" alt="GitHub streak" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishna-cell-12&show_icons=true&hide_border=false&bg_color=0C1E3F&title_color=A5D6FF&icon_color=58A6FF&text_color=E6EDF3&border_color=1F6FEB&custom_title=GitHub%20at%20a%20glance" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-cell-12&layout=compact&bg_color=0C1E3F&title_color=A5D6FF&text_color=E6EDF3&border_color=1F6FEB" alt="Top languages" />
